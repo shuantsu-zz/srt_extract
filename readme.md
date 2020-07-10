@@ -1,5 +1,7 @@
 # Extrator de legenda
 
+![Srt extractor](thumb.png "Srt extractor")
+
 ### Requisitos:
 
 1. **ffmpeg** instalado e nas variáveis de ambiente.
