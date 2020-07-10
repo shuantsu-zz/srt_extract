@@ -11,4 +11,4 @@ try:
     
 except:
     
-    input('\n\nSomething is wrong.\n\n')
+    input('\n\nSomething went wrong.\n\n')

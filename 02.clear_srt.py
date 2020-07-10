@@ -73,7 +73,11 @@ def main(args):
     f.write(cleanhtml('\n'.join(new_lines)))
 
 if __name__ == '__main__':
-  main(sys.argv)
+  try:
+    main(sys.argv)
+    input('Success!')
+  except:
+    input('Something went wrong...')
 
 """
 NOTES
