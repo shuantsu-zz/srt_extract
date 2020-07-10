@@ -28,5 +28,6 @@ Arraste o srt resultante para cima do arquivo `02.clear_srt.py` para limpar o ar
 
 ### Limpador de srt
 
-Crédito:
+**Crédito**:
+
 https://gist.github.com/ndunn219/62263ce1fb59fda08656be7369ce329b
