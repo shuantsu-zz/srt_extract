@@ -20,9 +20,9 @@
 
 ### Como rodar
 
-Com tudo instalado, arrastando o vídeo para cima do arquivo `01.extract_srt.py` você extrairá o srt bruto (com tags e timestamps) na pasta de origem. Bom para buscas e consultas.
+1. Com tudo instalado, arrastando o vídeo para cima do arquivo `01.extract_srt.py` você extrairá o srt bruto (com tags e timestamps) na pasta de origem. Bom para buscas e consultas.
 
-Arraste o srt resultante para cima do arquivo `02.clear_srt.py` para limpar o arquivo gerando um arquivo de texto na pasta de origem.
+2. Arraste o srt resultante para cima do arquivo `02.clear_srt.py` para limpar o arquivo gerando um arquivo de texto na pasta de origem.
 
 ------------
 
