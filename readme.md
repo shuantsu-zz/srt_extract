@@ -23,3 +23,10 @@
 Com tudo instalado, arrastando o vídeo para cima do arquivo `01.extract_srt.py` você extrairá o srt bruto (com tags e timestamps) na pasta de origem.
 
 Arraste o srt resultante para cima do arquivo `02.clear_srt.py` para limpar o arquivo gerando um txt na pasta de origem.
+
+------------
+
+### Limpador de srt
+
+Crédito:
+https://gist.github.com/ndunn219/62263ce1fb59fda08656be7369ce329b
