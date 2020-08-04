@@ -75,9 +75,9 @@ def main(args):
 if __name__ == '__main__':
   try:
     main(sys.argv)
-    input('Success!')
+    print('Success!')
   except:
-    input('Something went wrong...')
+    print('Something went wrong...')
 
 """
 NOTES
